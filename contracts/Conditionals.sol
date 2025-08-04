@@ -52,4 +52,3 @@ contract Conditionals2 {
         }
     }
 }
-
